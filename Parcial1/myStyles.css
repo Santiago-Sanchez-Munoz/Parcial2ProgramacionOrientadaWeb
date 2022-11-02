@@ -1,0 +1,41 @@
+
+        #integrantes{
+            font-size: 25px;
+        }
+
+        body{
+            background-color: rgb(236, 235, 138);
+        }
+        .cont{
+            align-items: center;
+        }
+
+        #desc1{
+            font-size: 20px;
+        }
+        .container{
+            margin: auto;
+            background-color: rgb(231, 229, 96);
+            width: 800px;
+            padding: 30px;
+            font-size: 30px;
+        }
+        .container_{
+            margin: auto;
+            background-color: rgb(231, 229, 96);
+            width: 800px;
+            padding: 30px;
+            font-size: 25px;
+            
+        }
+        h1 {
+        color: rgb(5, 56, 63);
+        text-align: center;
+      }
+      
+      p {
+        font-family: verdana;
+        font-size: 20px;
+        align-items: center;
+      }
+    
